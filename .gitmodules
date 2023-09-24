@@ -1,0 +1,3 @@
+[submodule "EsromeEngine/vendor/spdlog"]
+	path = EsromeEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
